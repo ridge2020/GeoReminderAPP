@@ -1,5 +1,4 @@
-## App Name will go here once we decide
-
+## APP name: Locatnetic
 ## Summary:
 How many times have you said to yourself "When I get home, I need to do this task", and then
 forget? This application will look to solve this problem by making sure that we are reminded when
